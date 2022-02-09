@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+  <filename>17.jpeg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>1512</width>
+    <height>2016</height>
+  </size>
+  <object>
+    <name>cup</name>
+    <bndbox>
+      <xmin>589</xmin>
+      <ymin>549</ymin>
+      <xmax>901</xmax>
+      <ymax>1612</ymax>
+    </bndbox>
+  </object>
+</annotation>

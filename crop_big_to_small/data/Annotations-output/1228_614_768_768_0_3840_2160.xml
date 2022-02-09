@@ -1,0 +1,17 @@
+<annotation>
+	<filename>1228_614_768_768_0_3840_2160.jpg</filename>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>phone</name>
+		<bndbox>
+			<xmin>587</xmin>
+			<ymin>0</ymin>
+			<xmax>768</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

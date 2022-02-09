@@ -1,0 +1,5 @@
+bag
+cup
+key
+phone
+wallet

@@ -1,0 +1,17 @@
+<annotation>
+	<filename>0_0_640_640_0_3840_2160.jpg</filename>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>people</name>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>120</ymin>
+			<xmax>624</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

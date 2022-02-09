@@ -1,0 +1,2 @@
+python clear_xml_img.py
+pause

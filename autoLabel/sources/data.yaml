@@ -1,0 +1,5 @@
+train: ./dataset/train/images  # 训练集
+val: ./dataset/valid/images   # 验证集
+
+nc: 5  # 类别
+names: ['bag','cup','key','phone','wallet'] # 类别名称

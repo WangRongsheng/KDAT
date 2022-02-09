@@ -1,0 +1,5 @@
+fire
+fire
+car
+bike
+person
