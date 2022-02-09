@@ -33,6 +33,8 @@
 
 1. 切图操作；
 
+## License
+Code released under GPL license. Please pull request to this source repo before you make your changes public or commercial usage. All rights reserved by Wang Rongsheng.
 
 
 
