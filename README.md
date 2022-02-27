@@ -33,6 +33,10 @@
 
 1. 切图操作；
 
+## 🤧REFERENCE
+
+项目存在很多参考，后续补充原项目地址
+
 ## License
 Code released under GPL license. Please pull request to this source repo before you make your changes public or commercial usage. All rights reserved by Wang Rongsheng.
 
