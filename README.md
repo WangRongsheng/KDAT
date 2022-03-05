@@ -35,7 +35,8 @@
 
 ## 🤧参考
 
-项目存在很多参考，后续补充原项目地址
+- 感谢B站Up[啥都会一点的研究生](https://space.bilibili.com/46880349) 所开源的[Image-Augmentation](https://github.com/Fafa-DL/Image-Augmentation) ，即本仓库的[imgAug](https://github.com/WangRongsheng/KDAT/tree/main/imgAug)
+- 更多参考更新中...
 
 ## License
 Code released under GPL license. Please pull request to this source repo before you make your changes public or commercial usage. All rights reserved by Wang Rongsheng.
