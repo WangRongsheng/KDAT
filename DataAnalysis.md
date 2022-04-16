@@ -7,8 +7,9 @@
 4. export_xml_info_to_excel.py：将标注的所有xml文件信息写入一个excel表格，后期数据分析使用
 5. produce_report.py：数据分析，查看xml文件统计信息，生成网页数据报告
 
-rewrite_xml_name.py：重新命名已标注好的xml文件中的label名称（beizi->cup）
-find_error_xml.py：发现xml标注文件的明显错误
-get_all_labels.py：得到所有xml标注的数据标签
-LabelToolForDetection：目标检测标注工具
-SimpleLabeltool：目标检测标注工具
+- rewrite_xml_name.py：重新命名已标注好的xml文件中的label名称（beizi->cup）
+- find_error_xml.py：发现xml标注文件的明显错误
+- get_all_labels.py：得到所有xml标注的数据标签
+- voc2coco.py：voc格式转为coco格式，命令为：`python voc2coco.py --xml_dir ./Annotations --json_file ./coco_results.json`
+- LabelToolForDetection：目标检测标注工具
+- SimpleLabeltool：目标检测标注工具
