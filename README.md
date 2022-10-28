@@ -32,6 +32,7 @@
 ## 😉推荐
 
 1. [LabelConvert-数据格式转化工具](https://github.com/Fafa-DL/LabelConvert)
+2. [SmallObjectAugmentation-填鸭式](https://github.com/kangpeilun/SmallObjectAugmentation-master/tree/main/SmallObjectAugmentation-master)
 
 ## 🤧参考
 
