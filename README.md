@@ -40,6 +40,11 @@
 - 感谢B站Up[啥都会一点的研究生](https://space.bilibili.com/46880349) 所开源的[Image-Augmentation](https://github.com/Fafa-DL/Image-Augmentation) ，即本仓库的[imgAug](https://github.com/WangRongsheng/KDAT/tree/main/imgAug)
 - 更多参考更新中...
 
+## 😃Tricks
+
+- [离线bbox增强](https://github.com/mukopikmin/bounding-box-augmentation)
+- [Grid mask](https://blog.csdn.net/weixin_42990464/article/details/107687284)
+
 ## License
 Code released under GPL license. Please pull request to this source repo before you make your changes public or commercial usage. All rights reserved by Wang Rongsheng.
 
