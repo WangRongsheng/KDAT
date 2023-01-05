@@ -48,5 +48,8 @@
 ## License
 Code released under GPL license. Please pull request to this source repo before you make your changes public or commercial usage. All rights reserved by Wang Rongsheng.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=WangRongsheng/KDAT&type=Date)](https://star-history.com/#WangRongsheng/KDAT&Date)
 
 
